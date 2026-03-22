@@ -71,7 +71,7 @@ This confirms correct comparator behavior.
 
 ## Simulation Output
 
-![Waveform](waveform.png)
+![Waveform](Waveform.png)
 
 ---
 
