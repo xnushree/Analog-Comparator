@@ -1,0 +1,18 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\Lenovo\Documents\LTspice\Comparator.net
+Start Time: Sun Mar 22 20:16:36 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.210 seconds.
+
+Files loaded:
+C:\Users\Lenovo\Documents\LTspice\Comparator.net
+C:\Users\Lenovo\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
